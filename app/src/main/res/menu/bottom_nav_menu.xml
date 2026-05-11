@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/nav_home"
+        android:icon="@android:drawable/ic_menu_today"
+        android:title="Home"/>
+    <item
+        android:id="@+id/nav_cattle"
+        android:icon="@android:drawable/ic_menu_agenda"
+        android:title="Cattle"/>
+    <item
+        android:id="@+id/nav_milk"
+        android:icon="@android:drawable/ic_menu_edit"
+        android:title="Milk"/>
+    <item
+        android:id="@+id/nav_alerts"
+        android:icon="@android:drawable/ic_dialog_alert"
+        android:title="Alerts"/>
+    <item
+        android:id="@+id/nav_ai"
+        android:icon="@android:drawable/ic_menu_help"
+        android:title="AI Help"/>
+</menu>
