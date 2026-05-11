@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Gokula-Health</string>
+    <string name="home">Home</string>
+    <string name="cattle">Cattle</string>
+    <string name="milk">Milk</string>
+    <string name="alerts">Alerts</string>
+    <string name="ai_help">AI Help</string>
+    <string name="scan_tag">Scan Tag</string>
+    <string name="add_cattle">Add Cattle</string>
+    <string name="milk_diary">Milk Diary</string>
+    <string name="vaccination">Vaccination</string>
+    <string name="yield_graph">Yield Graph</string>
+    <string name="login">Login</string>
+    <string name="register">Register</string>
+    <string name="logout">Logout</string>
+    <string name="save">Save</string>
+    <string name="cancel">Cancel</string>
+    <string name="send">Send</string>
+    <string name="morning">Morning</string>
+    <string name="evening">Evening</string>
+    <string name="total">Total</string>
+    <string name="monthly_avg">Monthly Average</string>
+    <string name="ear_tag_id">Ear Tag ID</string>
+    <string name="cow_name">Cow Name</string>
+    <string name="breed">Breed</string>
+    <string name="age">Age (years)</string>
+    <string name="vaccine_name">Vaccine Name</string>
+    <string name="schedule_date">Schedule Date</string>
+    <string name="notes">Notes</string>
+    <string name="ask_ai">Ask AI anything about cattle...</string>
+    <string name="ai_greeting">Hello! I am your Gokula AI Assistant 🐄\n\nI can help you with:\n• Cattle health issues\n• Feeding advice\n• Milk production tips\n• Disease prevention\n• Vaccination schedules\n\nWhat would you like to know?</string>
+</resources>
